@@ -4,6 +4,9 @@ import { motion } from "framer-motion";
 import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
+// Funcionalidades del VPN
+
+
 const features = [
   "Protección online asegurada.",
   "Sin publicidad engañosa.",
